@@ -6,7 +6,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         }
     },
     "exp_group": {
@@ -24,7 +24,8 @@
                     "TermURL": "n/a",
                     "Label": ""
                 }
-            }
+            },
+            "VariableType": "Categorical"
         }
     },
     "mouse_sex": {
@@ -39,7 +40,8 @@
                     "TermURL": "snomed:248153007",
                     "Label": ""
                 }
-            }
+            },
+            "VariableType": "Categorical"
         }
     },
     "DOB": {
